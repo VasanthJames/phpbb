@@ -6,6 +6,6 @@ Replace the files to add adspaces in phpbb 3.2.0 forum (prosilver theme)
 
 Add you ad script in the following files 
 
-index_body.html (line number: 21)
-viewforum_body.html (line number: 292)
-viewtopic_body.html (line number: 443)
+1. index_body.html (line number: 21)
+2. viewforum_body.html (line number: 292)
+3. viewtopic_body.html (line number: 443)
