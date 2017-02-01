@@ -1284,3 +1284,11 @@ ul.linklist:after,
 	float:left;
 	text-align:center;
 }
+
+.ad-header {
+	width:100%;
+	height:90px;
+	background-color: #CADCEB;
+	border-radius:7px;
+	text-align:center;
+}
