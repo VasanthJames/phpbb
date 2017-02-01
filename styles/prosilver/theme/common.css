@@ -1271,3 +1271,16 @@ ul.linklist:after,
 .dropdown .clone.hidden + li {
 	border-top: none;
 }
+
+
+.page-content {
+	margin: 4px 0;
+	clear: both;
+	width:80%;
+	float:left;
+}
+.adspace {
+	width:20%;
+	float:left;
+	text-align:center;
+}
